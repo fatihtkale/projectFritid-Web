@@ -123,7 +123,7 @@
     <div class="container-fluid">
       <ul class="bd-footer-links">
         <li><a href="#">Twitter</a></li>
-        <li><a href="#">Facepunch</a></li>
+        <li><a href="https://facepunch.com/">Facepunch</a></li>
         <li><a href="#">Steam group</a></li>
         <li><a href="about.php">About</a></li>
       </ul>
