@@ -1,0 +1,77 @@
+/* --<Start Main styles>-- */
+p{
+
+}
+h1{
+
+}
+h2{
+
+}
+h3{
+
+}
+h4{
+
+}
+h5{
+
+}
+/* --<End Main Styles>-- */
+
+/* --<Start Index Content>-- */
+.contentHeader{
+	margin-top: -48px;
+	background-image: url(../img/rust.jpg);
+	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+  	border-bottom: 1px solid #000;
+  	padding-top: 15px;
+}
+.headerBackground{
+	background-color: #000;
+	opacity: 0.75;
+
+}
+.contentHeader h1, .contentHeader p{
+	color: #ccc;
+	opacity: 100;
+}
+.headerBackground ul{
+	list-style: none;
+	color: #ccc;
+}
+.headerBackground ul:last-child{
+	padding-bottom: 10px;
+}
+/* --<End Index Content>-- */
+
+/* --<Start Footer>-- */
+footer{
+	background-color: #595a5b;
+	padding: 50px 10px;
+	width: 100%;
+	color: #ccc;
+	border-top: 1px solid #ccc;
+}
+.bd-footer {
+    text-align: left;
+}
+.bd-footer a {
+    font-weight: 600;
+    color: #2d3033;
+}
+.bd-footer a:hover{
+	font-weight: 600;
+	color: #383d42;
+}
+.bd-footer-links {
+    padding-left: 0;
+    margin-bottom: 1rem;
+}
+.bd-footer-links li {
+    display: inline-block;
+    margin-right: 10px;
+}
+/* --<End Footer>-- */
