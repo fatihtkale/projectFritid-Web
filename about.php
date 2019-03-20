@@ -1,12 +1,19 @@
+<?php
+  include "steam/steamauth.php";
+?>
 <!DOCTYPE html>
 <html>
 <head>
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Page Title</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
-    <script src="main.js"></script>
+<meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>projectFritid - Rust server</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="lib/css/bootstrap.min.css" rel="stylesheet">
+  <link href="lib/css/main.css" rel="stylesheet">
 </head>
 <body>
       <!-- Navigation -->
@@ -18,13 +25,13 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="index.php">Home</a>
+          </li>
           <li class="nav-item active">
-            <a class="nav-link" href="#">Home
+            <a class="nav-link" href="#">About
               <span class="sr-only">(current)</span>
             </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">About</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#">Services</a>
@@ -64,5 +71,12 @@
       </div>
     </div>
   </nav>
+
+  <!-- Content !-->
+
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="lib/js/jquery.min.js"></script>
+  <script src="lib/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>

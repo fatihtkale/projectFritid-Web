@@ -56,7 +56,13 @@ footer{
 	border-top: 1px solid #ccc;
 }
 .bd-footer {
-    text-align: left;
+	text-align: left;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	padding: 1rem;
+	text-align: center;
 }
 .bd-footer a {
     font-weight: 600;

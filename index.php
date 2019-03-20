@@ -35,7 +35,7 @@
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">About</a>
+            <a class="nav-link" href="about.php">About</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#">Services</a>
@@ -125,7 +125,7 @@
         <li><a href="#">Twitter</a></li>
         <li><a href="#">Facepunch</a></li>
         <li><a href="#">Steam group</a></li>
-        <li><a href="#">About</a></li>
+        <li><a href="about.php">About</a></li>
       </ul>
       <p>Website created and developed by <a href="#">projectFritid</a> staff.</p>
       <p>&copy; projectFritid 2019</p>
